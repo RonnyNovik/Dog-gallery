@@ -1,0 +1,9 @@
+.gallery-wrapper {
+  width: 100%;
+  min-height: 90vh;
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(20, 1fr);
+
+}
